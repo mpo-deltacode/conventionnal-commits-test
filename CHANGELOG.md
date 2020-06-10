@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github-deltacode///compare/v2.1.0...v3.0.0) (2020-06-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* **index:** Change API, add variable
+
+### Bug Fixes
+
+* **index:** correct my age ([f663797](https://github-deltacode///commit/f6637979138a90c82791720c0248ede18add0d75))
+
 ## [2.1.0](https://github-deltacode///compare/v2.0.2...v2.1.0) (2020-06-10)
 
 
