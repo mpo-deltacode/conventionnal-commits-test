@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github-deltacode///compare/v2.0.2...v2.1.0) (2020-06-10)
+
+
+### Features
+
+* **index:** adding my age ([ebd5c63](https://github-deltacode///commit/ebd5c636b353f2adad629aa6f3e12f29c70ad198))
+
 ### [2.0.2](https://github-deltacode///compare/v2.0.1...v2.0.2) (2020-06-10)
 
 ### [2.0.1](https://github-deltacode///compare/v2.0.0...v2.0.1) (2020-06-10)
