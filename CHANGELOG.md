@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github-deltacode///compare/v3.0.1...v4.0.0) (2020-09-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* **index:** Demo Mécanelec
+
+### Bug Fixes
+
+* **index:** New index ([090de39](https://github-deltacode///commit/090de39b4cb9c6549d1ba6aca3b5515ba4f034fa))
+
 ### [3.0.1](https://github-deltacode///compare/v3.0.0...v3.0.1) (2020-06-10)
 
 
